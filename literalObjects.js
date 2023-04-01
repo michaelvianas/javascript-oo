@@ -3,7 +3,7 @@ const user = {
   email: `michael@email.com`,
   birthDate: `21/08/1997`,
   role: `student`,
-  active: true,
+  activityStatus: true,
   showInfos: function(){
     console.log(this.name, this.email);
   }

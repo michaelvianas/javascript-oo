@@ -1,0 +1,21 @@
+{
+  "name": "javascript-oo",
+  "version": "1.0.0",
+  "description": "Learning about OO using the JavaScript language",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelvianas/javascript-oo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelvianas/javascript-oo/issues"
+  },
+  "homepage": "https://github.com/michaelvianas/javascript-oo#readme"
+}
